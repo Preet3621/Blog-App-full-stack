@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+*/node_modules/
+**/node_modules/
+
+# Upload files
+uploads/
+*/uploads/
+**/uploads/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*/.env
